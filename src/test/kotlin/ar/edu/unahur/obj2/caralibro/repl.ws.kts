@@ -1,3 +1,5 @@
+import ar.edu.unahur.obj2.caralibro.Video
+
 // Pueden usar este archivo para hacer pruebas rápidas,
 // de la misma forma en que usaban el REPL de Wollok.
 
@@ -5,3 +7,4 @@
 // en la corrección ni reemplaza a los tests.
 
 listOf(1, 8, 10).average()
+val videito = Video(120,"HD720p")
